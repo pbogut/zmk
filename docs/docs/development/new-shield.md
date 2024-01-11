@@ -43,7 +43,7 @@ Follow these steps to create your new repository:
 
 - Visit https://github.com/zmkfirmware/unified-zmk-config-template
 - Click the green "Use this template" button
-- In the drop down that opens, click "Use this template".
+- In the drop down that opens, click "Create a new repository".
 - In the following screen, provide the following information:
   - A repository name, e.g. `my-shield-module`.
   - A brief description, e.g. `ZMK Support For MyShield Keyboard`.
